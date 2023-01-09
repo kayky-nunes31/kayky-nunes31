@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height = "140px" src = "https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif" >
+  <img height = "140px" src = "https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kayky-nunes31}/count.svg" /></p>
 </div>
@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img align = "right" width = "450px"  src = "https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
+<img align = "right" width = "350px"  src = "https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
 
 ## Hello, I'm Kayky Hyan Nunes!
 
