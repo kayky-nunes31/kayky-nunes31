@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height = "140px" src = "[https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959](https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959)" >
+  <img height = "140px" src = "https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kayky-nunes31}/count.svg" /></p>
 </div>
@@ -19,7 +19,7 @@
 <li>🎓 Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)</li>
 <br>
 
-Hello, I'm Kayky Hyan Nunes!
+<br><br><br>
 
 <div>
   <a href="https://github.com/kayky-nunes31">
@@ -65,18 +65,20 @@ Hello, I'm Kayky Hyan Nunes!
 -->
 
 
-<!-- SNAKE COMMIT-->
- ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
-  
+
   ##
   <br>
 <!--Contatos-->
 <h3 align="center">:phone: <i>CONTACTS</i> :phone:</h2>
  <div>
    <div align="center">
-  <a href = "mailto:kayky.nunes@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaykynunes357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/kaykyy.nunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>  
+ 
+<!-- SNAKE COMMIT-->
+ ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
+  
