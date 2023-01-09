@@ -23,8 +23,6 @@ Hello, I'm Kayky Hyan Nunes!
 </div>
 
 <!-- SNAKE COMMIT-->
-  ##
-  <br>
  ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
   
   ##
