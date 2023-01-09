@@ -5,11 +5,21 @@
 </div>
 
 
+<br><br>
+
+<img align = "right" width = "450px"  src = "https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
+
+## Hello, I'm Kayky Hyan Nunes!
+
+<ul align="left">
+<li>📍I'm from São Paulo - SP and I'm 19 years old </li>
+<br>
+<li>🌱Análise e Desenvolvimento de Sistemas - ADS (3/4 semester)</li>
+<br>
+<li>🎓 Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)</li>
+<br>
+
 Hello, I'm Kayky Hyan Nunes!
-
-- 🌱Análise e Desenvolvimento de Sistemas - ADS (3/4 semester)
-
-- 🌱Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)
 
 <div>
   <a href="https://github.com/kayky-nunes31">
