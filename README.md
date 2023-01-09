@@ -21,13 +21,19 @@ Hello, I'm Kayky Hyan Nunes!
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
 </div>
+
+<!-- SNAKE COMMIT-->
+ ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
   
   ##
-  
+  <br>
+<!--Contatos-->
+<h3 align="center">:phone: <i>CONTACTS</i> :phone:</h2>
  <div>
+   <div align="center">
   <a href = "mailto:kayky.nunes@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/kaykyy.nunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  
-  
-  ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>  
