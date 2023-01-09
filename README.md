@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height = "140px" src = "https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959" >
+  <img height = "140px" src = "[https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959](https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959)" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kayky-nunes31}/count.svg" /></p>
 </div>
@@ -49,8 +49,8 @@ Hello, I'm Kayky Hyan Nunes!
 
 ### Studying in this moment
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
   
 <!--
 <div style="display: inline_block"><br>
