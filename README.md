@@ -1,6 +1,9 @@
-Olá, eu sou o Kayky Hyan Nunes
+Hello, I'm Kayky Hyan Nunes!
 
-- 🌱Análise e Desenvolvimento de Sistemas
+- 🌱Análise e Desenvolvimento de Sistemas - ADS (3/4 semester)
+
+- 🌱Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)
+
 <div>
   <a href="https://github.com/kayky-nunes31">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kayky-nunes31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
