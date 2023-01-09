@@ -16,7 +16,7 @@
 <br>
 <li>🌱Análise e Desenvolvimento de Sistemas - ADS (3/4 semester)</li>
 <br>
-<li>🎓 Java COMPLETE Object Oriented Programming + Projects - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;(certificate)</li>
+<li>🎓 Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)</li>
 <br>
 
 Hello, I'm Kayky Hyan Nunes!
@@ -43,7 +43,7 @@ Hello, I'm Kayky Hyan Nunes!
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E34F26)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 
 ### Studying in this moment
