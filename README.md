@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+  <img height = "140px" src = "https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kayky-nunes31}/count.svg" /></p>
 </div>
@@ -45,6 +45,7 @@ Hello, I'm Kayky Hyan Nunes!
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ### Studying in this moment
 
