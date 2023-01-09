@@ -25,7 +25,6 @@ Hello, I'm Kayky Hyan Nunes!
 <!-- SNAKE COMMIT-->
   ##
   <br>
-  <h3 align="center">:phone: <i>COMMIT</i> :phone:</h2>
  ![Snake animation](https://github.com/kayky-nunes31/kayky-nunes31/blob/output/github-contribution-grid-snake.svg)
   
   ##
