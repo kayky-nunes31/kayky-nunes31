@@ -7,19 +7,27 @@
 
 <br><br>
 
+<!--
+Sobre mim
+-->
+
 <img align = "right" width = "350px"  src = "https://i.gifer.com/origin/e6/e6f780e1dcced9031ede660c399958e3.gif">
 
 ## Hello, I'm Kayky Hyan Nunes!
 
 <ul align="left">
-<li>📍I'm from São Paulo - SP and I'm 19 years old </li>
+<li>📍I'm from São Paulo - SP and I'm 20 years old </li>
 <br>
-<li>🌱Análise e Desenvolvimento de Sistemas - ADS (3/4 semester)</li>
+<li>🌱Análise e Desenvolvimento de Sistemas - ADS (Formed in 12/2023)</li>
 <br>
 <li>🎓 Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)</li>
 <br>
 
 <br><br><br>
+
+<!--
+Painel de Commits
+-->
 
 <div>
   <a href="https://github.com/kayky-nunes31">
@@ -27,6 +35,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayky-nunes31&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<!--
+Habilidades
+-->
 
 ### Main skills
 
