@@ -22,7 +22,8 @@ Sobre mim
 <br>
 <li>🎓 Java COMPLETE Object Oriented Programming + Projects - Udemy (certificate)</li>
 <br>
-
+<li>🎓 React + Redux - Udemy (certificate)</li>
+<br>
 <br><br><br>
 
 <!--
@@ -47,6 +48,7 @@ Habilidades
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
 ### Other Knowledge
 
@@ -54,13 +56,12 @@ Habilidades
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E34F26)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Studying in this moment
 
-![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
   
 <!--
@@ -85,6 +86,7 @@ Habilidades
    <div align="center">
   <a href = "mailto:kaykynunes357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/kaykyy.nunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/kayky-hyan-nunes-7ab619207/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </div>
  
