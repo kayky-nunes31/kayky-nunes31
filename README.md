@@ -64,7 +64,7 @@ Habilidades
 
 ![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-0D1117.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-0D1117.svg?style=for-the-badge&logo=golang&logoColor=white)
+![Golang](https://img.shields.io/badge/go-0D1117.svg?style=for-the-badge&logo=go&logoColor=white)
   
 <!--
 <div style="display: inline_block"><br>
