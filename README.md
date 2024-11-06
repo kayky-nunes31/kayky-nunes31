@@ -63,6 +63,9 @@ Habilidades
 ### Studying in this moment
 
 ![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Angular](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Golang](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
   
 <!--
 <div style="display: inline_block"><br>
@@ -86,7 +89,7 @@ Habilidades
    <div align="center">
   <a href = "mailto:kaykynunes357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/kaykyy.nunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/kayky-hyan-nunes-7ab619207/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/kayky-hyan-nunes-7ab619207/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </div>
  
