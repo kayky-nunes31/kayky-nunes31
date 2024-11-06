@@ -63,7 +63,6 @@ Habilidades
 ### Studying in this moment
 
 ![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c#-0D1117.svg?style=for-the-badge&logo=c#&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-0D1117.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-0D1117.svg?style=for-the-badge&logo=golang&logoColor=white)
   
